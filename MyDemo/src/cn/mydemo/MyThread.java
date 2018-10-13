@@ -20,7 +20,7 @@ public class MyThread implements  Runnable {
 
 		
 	
-		if(tickets>0){
+		if(tickets>1){
 			
 			
 			String message="tid为"+tid+","+"tname为"+tname+"的线程正在出售第"+tickets+"张票。";
